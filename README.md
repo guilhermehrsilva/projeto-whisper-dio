@@ -1,0 +1,1 @@
+# projeto-whisper-dio
